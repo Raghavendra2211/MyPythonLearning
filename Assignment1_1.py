@@ -1,4 +1,4 @@
-#Assignment No 1 by Raghavendra Amaljare
+#Assignment No 1 
 
 def fun():
   print("Hello From Fun")
