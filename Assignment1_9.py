@@ -1,12 +1,8 @@
 # Assignment No 9
 
-def length(name):
-	print("Output:", end="")
-	k=0
-	for i in name:
-		k=k+1
-	print("Length", k)
+def evenNumber(number):
+	for i in range(0,number*2,2):
+		print(i+2)
 
 
-name=input("Name: ")
-length(name)
+evenNumber(10)
